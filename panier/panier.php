@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-//test
+//coucou wissal 
 require("../config/commandes.php");
 
 $panier = afficherPanier();
