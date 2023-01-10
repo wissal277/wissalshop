@@ -2,6 +2,9 @@
 session_start();
 
 //coucou wissal 
+
+// deuxieme test
+
 require("../config/commandes.php");
 
 $panier = afficherPanier();
